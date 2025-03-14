@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://github.com/EmbryoPhenomics/embryophenomics.io/al-folio/sitemap.xml
+Sitemap: https://github.com/EmbryoPhenomics/embryophenomics.io/sitemap.xml
