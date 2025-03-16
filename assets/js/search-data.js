@@ -440,14 +440,14 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-labembryocam",
+          title: 'LabEmbryoCam',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/embryophenomics/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
-          description: "a project with a background image and giscus comments",
+          description: "Field imaging",
           section: "Projects",handler: () => {
               window.location.href = "/embryophenomics/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
