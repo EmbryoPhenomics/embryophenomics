@@ -504,7 +504,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("embryophenomics/feed.xml", "_blank");
+          window.open("/embryophenomics//feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
