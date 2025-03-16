@@ -5,13 +5,13 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: right
+  align: center
   image: larvaldiversity.gif
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Contact: oliver.tills@plymouth.ac.uk</p>
+    <p>Video: https://vimeo.com/showcase/5525843</p>
+    <p>Company: www.phenomyx.co.uk</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
