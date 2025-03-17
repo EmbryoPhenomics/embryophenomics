@@ -2,7 +2,7 @@
 layout: page
 title: LabEmbryoCam
 description: with background image
-img: assets/img/LEC-render.png
+img: assets/img/LEC-RENDER.png
 importance: 1
 category: work
 related_publications: true
