@@ -1,16 +1,33 @@
 ---
 layout: page
 title: project 2
-description: Field imaging
-img: assets/img/3.jpg
+description: Predicting the future
+img: assets/img/AI.png
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Time is inextricably linked with the process of embryonic development.
+
+This makes embryos fascinating models to investigate the capacity to predict future biology, on the basis of prior biology.
+
+This concept is not new - see Bitterli et al 2014 from the early days of EmbryoPhenomics who was able to predict which embryos would survive a hypoxic treatment, purely on the basis of their heart function.
+
+What is new however, is the capacity to use AI to learn from complex multifaceted phenomic datasts, for predicting future biology.
+
+Maria Bruning and Ziad Ibbini are pioneering work in this area - seeking to apply AI to identify the phenomic signatures that are indicative of future biology. 
+
+**Beyond a sci-fi fascination, why is this important?**
+An ability to identify which animals will follow a particular trajectory in their development has broad relevance. 
+
+This capability has capacity to:
+i) Tease apart the potential for the environment to shape biology.
+ii) Enable optimisation of the environment for developing animals.
+iii) Provide a full mapping of a developing animal's potential biology.
+
+Ziad's 2023 paper describing an AI model capable of developmental event detection was a key step
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
@@ -18,7 +35,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/fieldembryocam.png
+    img: /assets/AI.png
     ---
 
 <div class="row">
