@@ -15,11 +15,10 @@ profile:
     <p>Contact: oliver.tills@plymouth.ac.uk</p>
     <p>Video: https://vimeo.com/showcase/5525843</p>
     <p>Company: www.phenomyx.co.uk</p>
-
 ---
 
-{% include figure.liquid path="assets/img/larvaldiversity.gif" class="img-fluid rounded z-depth-0" zoomable=true%}
-
+<img src="/assets/img/larvaldiversity.gif" alt="LabEmbryoCam" style="max-width: 80%; display: block; margin: auto;">
+ 
 ## What? 
 EmbryoPhenomics is a research group at the University of Plymouth developing the next generation of technologies for capturing the dynamic process of embryonic development in aquatic animals. We curate and apply new technology to some of the most pressing challenges in biology. 
 
