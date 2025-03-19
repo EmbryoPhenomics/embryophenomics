@@ -31,6 +31,5 @@ Biology is amazingly complex and this is most apparent during early development 
 ## How?
 The morphology, physiology and behaviour of embryos change on a minute by minute, hour by hour and day by day basis. Capturing this dynamic process presents a formidable challenge to scientists. We are responding to this challenge by building a range of automated high-throughput phenomic technologies that enable us to monitor the development of aquatic animals both in the laboratory, but also out in the natural environment.
 
-/phenomyx/projects/
 
 
