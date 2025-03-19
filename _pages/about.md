@@ -17,7 +17,7 @@ profile:
     <p>Company: www.phenomyx.co.uk</p>
 ---
 
-<img src="/assets/img/larvaldiversity.gif" alt="LabEmbryoCam" style="max-width: 80%; display: block; margin: auto;">
+<img src="/assets/img/larvaldiversity.gif" alt="LabEmbryoCam" style="max-width: 30%; display: block; margin: auto;">
  
 ## What? 
 EmbryoPhenomics is a research group at the University of Plymouth developing the next generation of technologies for capturing the dynamic process of embryonic development in aquatic animals. We curate and apply new technology to some of the most pressing challenges in biology. 
