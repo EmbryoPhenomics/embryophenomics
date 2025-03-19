@@ -1,31 +1,24 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+nav: false
+
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 
 profile:
-  align: center
-  image: larvaldiversity.gif
+  align: right
+  image: 
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Contact: oliver.tills@plymouth.ac.uk</p>
     <p>Video: https://vimeo.com/showcase/5525843</p>
     <p>Company: www.phenomyx.co.uk</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
+
+{% include figure.liquid path="assets/img/larvaldiversity.gif" class="img-fluid rounded z-depth-0" zoomable=true%}
 
 ## What? 
 EmbryoPhenomics is a research group at the University of Plymouth developing the next generation of technologies for capturing the dynamic process of embryonic development in aquatic animals. We curate and apply new technology to some of the most pressing challenges in biology. 
