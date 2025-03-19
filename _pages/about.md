@@ -13,6 +13,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Contact: oliver.tills@plymouth.ac.uk</p>
+    <p>Company: EmbryoPhenomics, University of Plymouth</p>
     <p>Video: https://vimeo.com/showcase/5525843</p>
     <p>Company: www.phenomyx.co.uk</p>
 ---
