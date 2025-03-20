@@ -2,10 +2,10 @@
 layout: profiles
 permalink: /people/
 title: Team
-description: Members of the la
+description: Members of the lab
 nav: true
 nav_order: 1
----
+
 
 profiles:
   - align: right
