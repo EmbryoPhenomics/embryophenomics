@@ -2,14 +2,12 @@
 layout: profiles
 permalink: /people/
 title: Team
-description: Members of the lab
+description: Members of the la
 nav: true
 nav_order: 1
 ---
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
   - align: right
     image: assets/img/oli.png
     content: about_oli.md
