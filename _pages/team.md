@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /team/
 title: Team
 description: Members of the lab
 nav: true
@@ -35,5 +35,4 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>jispicer@plymouth.ac.uk</p>
-
 
