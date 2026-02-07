@@ -9,7 +9,7 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-<section id="videos">
+<p align="center"> 
   <h2>Video Showcase</h2>
   <iframe
     src="https://vimeo.com/showcase/12098650/embed2"
@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
     allow="autoplay; fullscreen; picture-in-picture"
     allowfullscreen>
   </iframe>
-</section>
+</p>
 
 <p align="center"> 
 <strong>What?</strong>
