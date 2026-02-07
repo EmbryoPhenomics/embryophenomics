@@ -9,7 +9,17 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-<img src="/assets/img/larvaldiversity.gif" alt="LabEmbryoCam" style="max-width: 30%; display: block; margin: auto;">
+<section id="videos">
+  <h2>Video Showcase</h2>
+  <iframe
+    src="https://vimeo.com/showcase/12098650/embed2"
+    width="100%"
+    height="500"
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</section>
 
 <p align="center"> 
 <strong>What?</strong>
