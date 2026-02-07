@@ -12,7 +12,7 @@ social: true # includes social icons at the bottom of the page
 <p align="center"> 
   <h2>Video Showcase</h2>
   <iframe
-    src="https://vimeo.com/showcase/12098650/embed2"
+    src="https://vimeo.com/411408218"
     width="100%"
     height="500"
     frameborder="0"
